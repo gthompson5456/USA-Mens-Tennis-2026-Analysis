@@ -4,7 +4,7 @@ This project analyzes the performance of American male tennis players at ATP Mas
 
 The analysis is built in Python and Jupyter Notebook. It downloads and processes match data, identifies matches involving U.S. players, calculates player and match-level statistics, and presents the results through interactive Altair visualizations.
 
-## See "OUTPUTS" section for all visuals
+## See "OUTPUTS" folder for all visuals
 
 ## Project objectives
 
