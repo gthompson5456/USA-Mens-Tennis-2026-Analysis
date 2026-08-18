@@ -159,6 +159,7 @@ The visualization section uses Altair to create interactive charts and drill-dow
 Planned or included visualizations cover:
 
 * Win percentage by American player
+* Deep dive into a specific players serve and break stats (Tommy Paul example)
 * Win percentage by surface
 * First-serve and second-serve effectiveness
 * Wins over higher-ranked opponents
